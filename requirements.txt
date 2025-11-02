@@ -1,0 +1,8 @@
+flask
+twilio
+openai
+gtts
+beautifulsoup4
+requests
+langchain
+chromadb
